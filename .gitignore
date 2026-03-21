@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+*.zip
+node_modules/
+
+# Screenshots (store assets, not source code)
+screenshots/
+store-assets/
