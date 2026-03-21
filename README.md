@@ -132,7 +132,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Built by [Your Name](https://github.com/YOUR_USERNAME) — Data Science student at Thomas More, Belgium.
+Built by (https://github.com/Shah-in-alam) — Data Science student at Thomas More, Belgium.
 
 Built during a week of gap research across 100+ Chrome extensions. The best product ideas solve problems so common that everyone stopped noticing them.
 
