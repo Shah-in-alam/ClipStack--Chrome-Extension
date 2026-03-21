@@ -77,7 +77,7 @@ All clips are stored using `chrome.storage.local` on your device only. Nothing e
 [Install from Chrome Web Store](https://chromewebstore.google.com/detail/clipstack/)
 
 ### Manual (developer)
-1. Clone this repo: `git clone https://github.com/YOUR_USERNAME/clipstack.git`
+1. Clone this repo: `git clone https://github.com/Shah-in-alam/ClipStack--Chrome-Extension.git`
 2. Open `chrome://extensions/`
 3. Enable "Developer mode" (top right)
 4. Click "Load unpacked" → select the cloned folder
